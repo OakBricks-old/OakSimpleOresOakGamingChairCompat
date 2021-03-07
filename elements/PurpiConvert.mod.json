@@ -47,6 +47,17 @@
           "x": 240,
           "y": 69
         }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Convert",
+          "width": 60,
+          "height": 20,
+          "name": "Convert",
+          "x": 177,
+          "y": 67
+        }
       }
     ]
   }

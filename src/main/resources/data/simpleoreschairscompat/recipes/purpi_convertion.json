@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "simpleoreschairscompat:purpi_2"
+  },
+  "addition": {
+    "item": "minecraft:diamond_boots"
+  },
+  "result": {
+    "item": "minecraft:sugar_cane"
+  }
+}

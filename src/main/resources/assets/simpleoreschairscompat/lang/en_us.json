@@ -1,7 +1,12 @@
 {
   "block.simpleoreschairscompat.purpi_2_block": "Spoiled Block of Purpi",
   "itemGroup.tabspoiled_purpi": "Spoiled Purpi",
+  "item.minecraft.tipped_arrow.effect.purity_potion": "Arrow of Potion Of Purity",
+  "item.minecraft.splash_potion.effect.purity_potion": "Splash Potion Of Purity",
+  "item.minecraft.lingering_potion.effect.purity_potion": "Lingering Potion Of Purity",
   "block.simpleoreschairscompat.refinery": "Refinery",
+  "effect.purity_potion": "Purity",
   "block.simpleoreschairscompat.purpi_2_ore": "Spoiled Purpi Ore",
-  "item.simpleoreschairscompat.purpi_2": "Spoiled Purpi"
+  "item.simpleoreschairscompat.purpi_2": "Spoiled Purpi",
+  "item.minecraft.potion.effect.purity_potion": "Potion Of Purity"
 }

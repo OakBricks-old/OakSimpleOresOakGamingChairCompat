@@ -1,7 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/leaves",
   "textures": {
-    "all": "simpleoreschairscompat:blocks/purpi2_ore",
-    "particle": "simpleoreschairscompat:blocks/purpi2_ore"
+    "all": "simpleoreschairscompat:blocks/purpi_ore_main_style",
+    "particle": "simpleoreschairscompat:blocks/purpi_ore_main_style"
   }
 }

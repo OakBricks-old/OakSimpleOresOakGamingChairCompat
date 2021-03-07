@@ -81,6 +81,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "spoiled_purpi"
+    },
+    {
+      "name": "Teststruct",
+      "type": "structure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "teststruct"
+    },
+    {
+      "name": "PurpiConvertion",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_convertion"
+    },
+    {
+      "name": "PurityPotion",
+      "type": "potion",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purity_potion"
     }
   ],
   "variable_elements": [],
@@ -89,18 +116,23 @@
     "en_us": {
       "block.simpleoreschairscompat.purpi_2_block": "Spoiled Block of Purpi",
       "itemGroup.tabspoiled_purpi": "Spoiled Purpi",
+      "item.minecraft.tipped_arrow.effect.purity_potion": "Arrow of Potion Of Purity",
+      "item.minecraft.splash_potion.effect.purity_potion": "Splash Potion Of Purity",
+      "item.minecraft.lingering_potion.effect.purity_potion": "Lingering Potion Of Purity",
       "block.simpleoreschairscompat.refinery": "Refinery",
+      "effect.purity_potion": "Purity",
       "block.simpleoreschairscompat.purpi_2_ore": "Spoiled Purpi Ore",
-      "item.simpleoreschairscompat.purpi_2": "Spoiled Purpi"
+      "item.simpleoreschairscompat.purpi_2": "Spoiled Purpi",
+      "item.minecraft.potion.effect.purity_potion": "Potion Of Purity"
     }
   },
   "workspaceSettings": {
     "modid": "simpleoreschairscompat",
     "modName": "SimpleOresChairsCompat",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "OakBricks",
     "websiteURL": "https://oakbricks.neocities.org",
-    "license": "Academic Free License v3.0",
+    "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "purpi_convert",
