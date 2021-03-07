@@ -1,0 +1,42 @@
+{
+  "group": "simpleoreschairscompat",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "1": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "2": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "3": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "4": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "5": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "6": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "7": {
+      "item": "simpleoreschairscompat:purpi_2"
+    },
+    "8": {
+      "item": "simpleoreschairscompat:purpi_2"
+    }
+  },
+  "result": {
+    "item": "simpleoreschairscompat:purpi_2_block",
+    "count": 1
+  }
+}

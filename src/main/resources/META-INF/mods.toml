@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="simpleoreschairscompat"
+version="1.0.0"
+displayName="SimpleOresChairsCompat"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Andy Cruz, MCreator"
+
+[[dependencies.simpleoreschairscompat]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.simpleoreschairscompat]]
+    modId="oaksimpleores"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+

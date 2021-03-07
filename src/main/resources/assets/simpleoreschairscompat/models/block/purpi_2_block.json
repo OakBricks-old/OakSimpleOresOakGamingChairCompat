@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "simpleoreschairscompat:blocks/purpi2_ore_block",
+    "particle": "simpleoreschairscompat:blocks/purpi2_ore_block"
+  }
+}

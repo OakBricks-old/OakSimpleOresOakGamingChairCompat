@@ -1,0 +1,108 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Purpi2",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_2"
+    },
+    {
+      "name": "Purpi2Ore",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_2_ore"
+    },
+    {
+      "name": "Purpi2Block",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_2_block"
+    },
+    {
+      "name": "Purpi2OreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_2_ore_block_recipe"
+    },
+    {
+      "name": "Purpi2BlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_2_block_ore_recipe"
+    },
+    {
+      "name": "Purpi2OreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_2_ore_smelting"
+    },
+    {
+      "name": "PurpiConvert",
+      "type": "gui",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpi_convert"
+    },
+    {
+      "name": "Refinery",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refinery"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.simpleoreschairscompat.purpi_2_block": "Block of Purpi2",
+      "block.simpleoreschairscompat.refinery": "Refinery",
+      "block.simpleoreschairscompat.purpi_2_ore": "Purpi2 Ore",
+      "item.simpleoreschairscompat.purpi_2": "Purpi2"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "simpleoreschairscompat",
+    "modName": "SimpleOresChairsCompat",
+    "version": "1.0.0",
+    "author": "Andy Cruz, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [
+      "oaksimpleores"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "compact.oakbricks.simpleoreschairscompat",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

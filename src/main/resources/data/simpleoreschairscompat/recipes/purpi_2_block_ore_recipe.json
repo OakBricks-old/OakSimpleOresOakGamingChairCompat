@@ -1,0 +1,13 @@
+{
+  "group": "simpleoreschairscompat",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simpleoreschairscompat:purpi_2_block"
+    }
+  ],
+  "result": {
+    "item": "simpleoreschairscompat:purpi_2",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "simpleoreschairscompat",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "simpleoreschairscompat:purpi_2_ore"
+  },
+  "result": {
+    "item": "simpleoreschairscompat:purpi_2"
+  }
+}

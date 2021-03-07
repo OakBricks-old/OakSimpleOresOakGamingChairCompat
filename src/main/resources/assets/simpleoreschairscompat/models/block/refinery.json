@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simpleoreschairscompat:blocks/bott_refin",
+    "up": "simpleoreschairscompat:blocks/refind_top",
+    "north": "simpleoreschairscompat:blocks/dsafsg",
+    "east": "simpleoreschairscompat:blocks/side1",
+    "south": "simpleoreschairscompat:blocks/side1",
+    "west": "simpleoreschairscompat:blocks/side1",
+    "particle": "simpleoreschairscompat:blocks/bott_refin"
+  }
+}
