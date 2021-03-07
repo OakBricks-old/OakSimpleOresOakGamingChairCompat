@@ -72,27 +72,38 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "refinery"
+    },
+    {
+      "name": "SpoiledPurpi",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spoiled_purpi"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.simpleoreschairscompat.purpi_2_block": "Block of Purpi2",
+      "block.simpleoreschairscompat.purpi_2_block": "Spoiled Block of Purpi",
+      "itemGroup.tabspoiled_purpi": "Spoiled Purpi",
       "block.simpleoreschairscompat.refinery": "Refinery",
-      "block.simpleoreschairscompat.purpi_2_ore": "Purpi2 Ore",
-      "item.simpleoreschairscompat.purpi_2": "Purpi2"
+      "block.simpleoreschairscompat.purpi_2_ore": "Spoiled Purpi Ore",
+      "item.simpleoreschairscompat.purpi_2": "Spoiled Purpi"
     }
   },
   "workspaceSettings": {
     "modid": "simpleoreschairscompat",
     "modName": "SimpleOresChairsCompat",
-    "version": "1.0.0",
-    "author": "Andy Cruz, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "version": "1.0.1",
+    "author": "OakBricks",
+    "websiteURL": "https://oakbricks.neocities.org",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "purpi_convert",
     "requiredMods": [
       "oaksimpleores"
     ],
@@ -100,7 +111,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.4",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "Complicated Compat Layer for my ores mod",
     "modElementsPackage": "compact.oakbricks.simpleoreschairscompat",
     "lockBaseModFiles": false
   },

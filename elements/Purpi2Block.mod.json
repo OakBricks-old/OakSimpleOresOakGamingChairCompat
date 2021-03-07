@@ -26,14 +26,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Block of Purpi2",
+    "name": "Spoiled Block of Purpi",
     "specialInfo": [],
     "hardness": 5.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:SpoiledPurpi"
     },
     "destroyTool": "pickaxe",
     "customDrop": {

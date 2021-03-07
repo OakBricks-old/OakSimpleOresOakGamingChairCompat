@@ -4,11 +4,12 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="simpleoreschairscompat"
-version="1.0.0"
+version="1.0.1"
 displayName="SimpleOresChairsCompat"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Andy Cruz, MCreator"
+credits="Complicated Compat Layer for my ores mod"
+displayURL="https://oakbricks.neocities.org"
+logoFile="logo.png"
+authors="OakBricks"
 
 [[dependencies.simpleoreschairscompat]]
     modId="minecraft"

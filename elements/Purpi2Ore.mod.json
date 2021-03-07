@@ -26,14 +26,14 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Purpi2 Ore",
+    "name": "Spoiled Purpi Ore",
     "specialInfo": [],
     "hardness": 3.0,
     "resistance": 5.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:SpoiledPurpi"
     },
     "destroyTool": "pickaxe",
     "customDrop": {
@@ -46,7 +46,7 @@
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "ROCK"
+      "value": "IRON"
     },
     "tickRate": 10,
     "tickRandomly": false,

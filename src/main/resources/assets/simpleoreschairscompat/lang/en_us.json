@@ -1,6 +1,7 @@
 {
-  "block.simpleoreschairscompat.purpi_2_block": "Block of Purpi2",
+  "block.simpleoreschairscompat.purpi_2_block": "Spoiled Block of Purpi",
+  "itemGroup.tabspoiled_purpi": "Spoiled Purpi",
   "block.simpleoreschairscompat.refinery": "Refinery",
-  "block.simpleoreschairscompat.purpi_2_ore": "Purpi2 Ore",
-  "item.simpleoreschairscompat.purpi_2": "Purpi2"
+  "block.simpleoreschairscompat.purpi_2_ore": "Spoiled Purpi Ore",
+  "item.simpleoreschairscompat.purpi_2": "Spoiled Purpi"
 }

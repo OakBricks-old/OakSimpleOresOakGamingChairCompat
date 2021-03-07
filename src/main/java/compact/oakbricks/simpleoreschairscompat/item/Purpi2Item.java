@@ -8,13 +8,13 @@ import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
 import java.util.List;
 
+import compact.oakbricks.simpleoreschairscompat.itemgroup.SpoiledPurpiItemGroup;
 import compact.oakbricks.simpleoreschairscompat.SimpleoreschairscompatModElements;
 
 @SimpleoreschairscompatModElements.ModElement.Tag
@@ -31,8 +31,18 @@ public class Purpi2Item extends SimpleoreschairscompatModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(SpoiledPurpiItemGroup.tab).maxStackSize(64).isImmuneToFire().rarity(Rarity.COMMON));
 			setRegistryName("purpi_2");
+		}
+
+		@Override
+		public boolean hasContainerItem() {
+			return true;
+		}
+
+		@Override
+		public ItemStack getContainerItem(ItemStack itemstack) {
+			return new ItemStack(this);
 		}
 
 		@Override
@@ -48,6 +58,11 @@ public class Purpi2Item extends SimpleoreschairscompatModElements.ModElement {
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
+		}
+
+		@Override
+		public boolean canHarvestBlock(BlockState state) {
+			return true;
 		}
 
 		@Override

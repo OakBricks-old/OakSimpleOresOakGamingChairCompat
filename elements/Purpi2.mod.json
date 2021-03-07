@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "purpi",
     "customModelName": "Normal",
-    "name": "Purpi2",
+    "name": "Spoiled Purpi",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:SpoiledPurpi"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -18,9 +18,9 @@
     "recipeRemainder": {
       "value": ""
     },
-    "destroyAnyBlock": false,
-    "immuneToFire": false,
-    "stayInGridWhenCrafting": false,
+    "destroyAnyBlock": true,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
