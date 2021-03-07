@@ -4,9 +4,9 @@
     "item": "simpleoreschairscompat:purpi_2"
   },
   "addition": {
-    "item": "minecraft:diamond_boots"
+    "item": "minecraft:netherite_block"
   },
   "result": {
-    "item": "minecraft:sugar_cane"
+    "item": "oaksimpleores:purple_ore"
   }
 }
